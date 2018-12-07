@@ -6,7 +6,7 @@ sudo ssh -i "keypair-django.pem" ec2-user@ec2-3-16-252-255.us-east-2.compute.ama
 ### start app
 yarn    
 yarn start          
-http://3.16.252.255:3000
+3.17.52.157:3000
 
 ### create react app 
 npx create-react-app my-app      
