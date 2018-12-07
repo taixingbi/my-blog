@@ -4,7 +4,7 @@ chmod 400 keypair-django.pem
 sudo ssh -i "keypair-django.pem" ec2-user@ec2-3-16-252-255.us-east-2.compute.amazonaws.com    
 
 ### start app
-yarn
+yarn    
 yarn start          
 http://3.16.252.255:3000
 
