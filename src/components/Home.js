@@ -43,7 +43,7 @@ export default class Contact extends Component {
                 <div class="col-md-4 col-sm-6 portfolio-item">
                   <h4>Personal Web</h4>
                   <br/>
-                  <a class="portfolio-link" href="http://3.16.252.255:3000/">
+                  <a class="portfolio-link" href="http://3.17.52.157:3000/">
                     <div class="portfolio-hover"></div>
                     <img class="img-portfolio" src="assets/portfolio1.jpg" alt=""/>
                   </a>
